@@ -7,7 +7,8 @@ function App() {
       <Weather />
       <br />
       <p>
-        Source Code in <a href="https://www.google.de/">GitHub</a>
+        Source Code in{" "}
+        <a href="https://github.com/mARTilda-art/recreateweather">GitHub</a>
       </p>
     </div>
   );
